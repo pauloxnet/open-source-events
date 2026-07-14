@@ -612,6 +612,9 @@ Durham, North Carolina,, USA.
 - [Open Source Monitoring Conference](https://osmc.de/)
   > Date: 17th - 19th November || Mode: In-person || Location: Nuremberg, Germany.
 
+- [FOSS for All Conference 2026](https://2026.fossforall.org/)
+  > Date: 28th November || Mode: In-person || Location: Seoul, South Korea.
+
 - [Nerdearla Mexico](https://nerdearla.mx/)
   > Date: TBD November || Mode: Hybrid || Location: Mexico City, Mexico.
 
