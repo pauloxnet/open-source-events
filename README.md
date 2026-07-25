@@ -495,6 +495,9 @@ Durham, North Carolina,, USA.
 - [Carolina Code Conference](https://blog.carolina.codes/p/2026-event-details-and-registration)
   > Date: 14th - 15th August || Mode: In-person || Location: Flywheel Coworking Greenville, South Carolina.
 
+- [PyCon Ghana](https://gh.pycon.org/2026/)
+  > Date: 20th - 22nd August || Mode: In-person || Location: Accra, Ghana.
+
 - [DjangoCon US](https://2026.djangocon.us/)
   > Date: 24th - 28th August || Mode: Hybrid || Location: Chicago, Illinois, USA.
 
@@ -561,9 +564,13 @@ Durham, North Carolina,, USA.
 
 - [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)
    > Date: 7th - 9th October || Mode: In-person || Location: Prague, Czechia.
-   
+
+
 - [Embedded Linux Conference Europe](https://events.linuxfoundation.org/embedded-linux-conference-europe/)
    > Date: 7th - 9th October || Mode: In-person || Location: Prague, Czechia.
+
+- [PyCon Africa](https://africa.pycon.org/)
+   > Date: 7th - 11th October || Mode: In-person || Location: Speke Resort Munyonyo,Kampala Uganda.
 
 - [Community Over Code (The Apache Software Foundation)](https://communityovercode.org/)
    > Date: 11th - 14th October || Mode: In-person || Location: Glasgow, Scotland.
