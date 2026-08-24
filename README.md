@@ -495,6 +495,9 @@ Durham, North Carolina,, USA.
 - [Carolina Code Conference](https://blog.carolina.codes/p/2026-event-details-and-registration)
   > Date: 14th - 15th August || Mode: In-person || Location: Flywheel Coworking Greenville, South Carolina.
 
+- [Abraka Django Girls Workshop](https://djangogirls.org/en/abraka/)
+  > Date: 18th - 19th August || Mode: In-person || Location: Hamplus Technologies International [Hamplus Hub], Abraka, Delta State, Nigeria.
+
 - [PyCon Ghana](https://gh.pycon.org/2026/)
   > Date: 20th - 22nd August || Mode: In-person || Location: Accra, Ghana.
 
